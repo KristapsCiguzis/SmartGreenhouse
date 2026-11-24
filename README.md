@@ -61,7 +61,7 @@ doc/          Screenshots and GIFs for this README
 git clone https://github.com/KristapsCiguzis/SmartGreenhouse.git
 cd SmartGreenhouse
 pnpm install        # or npm install
-cp .env.example .env.local
+cp example.env.local.md .env.local
 pnpm dev            # or npm run dev
 ```
 
