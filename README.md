@@ -4,7 +4,7 @@ A web app for managing and monitoring a greenhouse built around ESP32 devices. C
 
 
 ![Devices page](doc/screenshots/2.png)
-
+![Hardware](doc/screenshots/4.png)
 ## Features
 
 - **Authentication:** sign in / sign out per user
@@ -69,6 +69,6 @@ Open http://localhost:3000.
 
 ### Environment variables
 
-Copy [`.env.example`](.env.example) to `.env.local` and fill in your own values.
+Copy [`example.env.local.md`](example.env.local.md) to `.env.local` and fill in your own values.
 
 No hardware? Use **Add Dummy Device** on the Devices tab to try the app with simulated data.
