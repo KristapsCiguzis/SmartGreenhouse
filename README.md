@@ -2,9 +2,9 @@
 
 A web app for managing and monitoring a greenhouse built around ESP32 devices. Connect your devices, add widgets for sensors and relays, and watch live readings or control things like irrigation from the browser.
 
-
+![Hardware](doc/screenshots/4.webp)
 ![Devices page](doc/screenshots/2.png)
-![Hardware](doc/screenshots/4.png)
+
 ## Features
 
 - **Authentication:** sign in / sign out per user
