@@ -71,4 +71,5 @@ Open http://localhost:3000.
 
 Copy [`example.env.local.md`](example.env.local.md) to `.env.local` and fill in your own values.
 
+
 No hardware? Use **Add Dummy Device** on the Devices tab to try the app with simulated data.
