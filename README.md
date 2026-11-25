@@ -60,9 +60,9 @@ doc/          Screenshots and GIFs for this README
 ```bash
 git clone https://github.com/KristapsCiguzis/SmartGreenhouse.git
 cd SmartGreenhouse
-pnpm install        # or npm install
+npm install
 cp example.env.local.md .env.local
-pnpm dev            # or npm run dev
+npm run dev
 ```
 
 Open http://localhost:3000.
